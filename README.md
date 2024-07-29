@@ -1,1 +1,1 @@
-# Currently writting code for college 
+# Figma University AI app
